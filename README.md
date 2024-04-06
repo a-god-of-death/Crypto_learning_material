@@ -30,7 +30,8 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 
 
 ## Solidity
-1.https://solidity-by-example.org
+1.https://solidity-by-example.org  
+2.https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/  
 
 ## Defi
 1.https://blog.cfte.education/top-defi-projects-2023/
@@ -40,7 +41,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 
 # 😎Find_crypto_job
 A list of crypto job websites and communities. You can find the most complete job-hunting channel here.   
-Feel free to contribute to this repository.
+Feel free to contribute to this repository.  
 
 🧐Third-party websites:  
 1.https://jobs.theblockchainassociation.org/jobs  
@@ -53,8 +54,8 @@ Feel free to contribute to this repository.
 8.https://twitter.com/jobs/  
 
 😙Github
-1.https://github.com/LukasMasuch/best-of-crypto?tab=readme-ov-file#smart-contract-platforms
-2.https://github.com/Anugrahsr/Awesome-web3-Security
+1.https://github.com/LukasMasuch/best-of-crypto?tab=readme-ov-file#smart-contract-platforms   
+2.https://github.com/Anugrahsr/Awesome-web3-Security  
 
 🤞VC  
 1.https://jobs.panteracapital.com/jobs  
@@ -71,8 +72,8 @@ Feel free to contribute to this repository.
 😶‍🌫️Ecosystem  
 1.https://github.com/aptos-foundation/ecosystem-projects  
 2.https://jobs.bnbchain.org/jobs  
-3.https://polkadot.network/ecosystem/jobs/
-4.https://jobs.ton.org/jobs
+3.https://polkadot.network/ecosystem/jobs/  
+4.https://jobs.ton.org/jobs  
 
 
 😚Company  
