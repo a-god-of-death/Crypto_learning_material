@@ -38,6 +38,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 
 ## Web3 security
 1.https://github.com/Anugrahsr/Awesome-web3-Security  
+2.https://rekt.news/leaderboard/  
 
 # 😎Find_crypto_job
 A list of crypto job websites and communities. You can find the most complete job-hunting channel here.   
