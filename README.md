@@ -66,6 +66,7 @@ Feel free to contribute to this repository.
 🤞VC  
 1.https://jobs.panteracapital.com/jobs  
 2.https://a16zcrypto.com/portfolio/  
+3.https://www.stake.capital/  
 
 😍Grant program  
 1.https://github.com/ton-society/grants-and-bounties  
