@@ -40,11 +40,12 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 1.https://github.com/Anugrahsr/Awesome-web3-Security  
 2.https://rekt.news/leaderboard/  
 3.https://github.com/ConsenSys/smart-contract-best-practices/  
+4.https://www.zellic.io/blog/the-auditooor-grindset/  
 
 ## Hackathon  
 1.https://docs.chain.link/resources/hackathon-resources  
 
-# 😎Find_crypto_job
+# 😎Find_crypto_job  
 A list of crypto job websites and communities. You can find the most complete job-hunting channel here.   
 Feel free to contribute to this repository.  
 
@@ -59,7 +60,7 @@ Feel free to contribute to this repository.
 8.https://twitter.com/jobs/  
 
 
-😙Github
+😙Github  
 1.https://github.com/LukasMasuch/best-of-crypto?tab=readme-ov-file#smart-contract-platforms   
 2.https://github.com/Anugrahsr/Awesome-web3-Security  
 
