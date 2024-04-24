@@ -7,6 +7,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 3.https://roadmap.sh/blockchain  
 4.https://github.com/twf-nikhila/awesome-web3-resources  
 5.https://github.com/LukasMasuch/best-of-crypto?tab=readme-ov-file#smart-contract-platforms  
+6.https://github.com/OffcierCia/DeFi-Developer-Road-Map?tab=readme-ov-file  
 
 
 
