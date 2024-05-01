@@ -64,6 +64,7 @@ Feel free to contribute to this repository.
 😙Github  
 1.https://github.com/LukasMasuch/best-of-crypto?tab=readme-ov-file#smart-contract-platforms   
 2.https://github.com/Anugrahsr/Awesome-web3-Security  
+3.https://github.com/rebase-network/who-is-hiring  
 
 🤞VC  
 1.https://jobs.panteracapital.com/jobs  
