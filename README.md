@@ -45,6 +45,9 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 5.https://www.curta.wtf/docs  
 6.https://onlypwner.xyz/  
 
+## Zero-knowledge proofs  
+1.https://github.com/matter-labs/awesome-zero-knowledge-proofs
+
 ## Hackathon  
 1.https://docs.chain.link/resources/hackathon-resources  
 
