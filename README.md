@@ -42,6 +42,8 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 2.https://rekt.news/leaderboard/  
 3.https://github.com/ConsenSys/smart-contract-best-practices/  
 4.https://www.zellic.io/blog/the-auditooor-grindset/  
+5.https://www.curta.wtf/docs  
+6.https://onlypwner.xyz/  
 
 ## Hackathon  
 1.https://docs.chain.link/resources/hackathon-resources  
