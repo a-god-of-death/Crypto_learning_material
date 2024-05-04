@@ -64,6 +64,7 @@ Feel free to contribute to this repository.
 6.https://cryptojobslist.com/  
 7.https://cryptocurrencyjobs.substack.com/  
 8.https://twitter.com/jobs/  
+9.https://jobs.hackernoon.com/?source=navbar  
 
 
 😙Github  
