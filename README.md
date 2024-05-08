@@ -93,6 +93,7 @@ Feel free to contribute to this repository.
 2.https://jobs.bnbchain.org/jobs  
 3.https://polkadot.network/ecosystem/jobs/  
 4.https://jobs.ton.org/jobs  
+5.https://ethereum.org/zh/community/get-involved/#ethereum-jobs/  
 
 
 😚Company  
