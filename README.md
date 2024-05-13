@@ -47,7 +47,10 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 6.https://onlypwner.xyz/  
 
 ## Zero-knowledge proofs  
-1.https://github.com/matter-labs/awesome-zero-knowledge-proofs
+1.https://github.com/matter-labs/awesome-zero-knowledge-proofs  
+
+## Token engineering  
+1.https://tokenengineering.net/study-season/1  
 
 ## Hackathon  
 1.https://docs.chain.link/resources/hackathon-resources  
