@@ -21,6 +21,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 5.https://guide.summerofbitcoin.org/the-proposal-round/getting-started-with-bitcoin#developer-track  
 6.https://www.lopp.net/bitcoin-information.html  
 7.https://developer.bitcoin.org/devguide/block_chain.html  
+8.https://learning.chaincode.com/  
 
 
 
