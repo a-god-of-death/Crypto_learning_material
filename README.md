@@ -62,6 +62,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 
 ## Ethereum  
 1.https://epf.wiki/#/eps/intro  
+2.https://eth2book.info/capella/  
 
 
 # 😎Find_crypto_job  
