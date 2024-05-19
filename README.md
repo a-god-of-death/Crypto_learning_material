@@ -80,6 +80,7 @@ Feel free to contribute to this repository.
 8.https://twitter.com/jobs/  
 9.https://jobs.hackernoon.com/?source=navbar  
 10.https://aworker.io/  
+11.https://www.stacks.co/jobs  
 
 
 😙Github  
