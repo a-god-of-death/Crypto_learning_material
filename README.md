@@ -22,6 +22,8 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 6.https://www.lopp.net/bitcoin-information.html  
 7.https://developer.bitcoin.org/devguide/block_chain.html  
 8.https://learning.chaincode.com/  
+9.https://123btc.org/  
+10.https://www.btcstudy.org/  
 
 
 
