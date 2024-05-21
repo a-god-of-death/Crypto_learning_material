@@ -117,5 +117,5 @@ Feel free to contribute to this repository.
 3.https://flare.network/job-opportunity-business-and-defi-analyst/  
 4.https://web3caff.com/zh/hiring  
 5.https://osec.io/careers/security-researcher  
-
+6.https://docs.swarm.com/about/careers/blockchain-developer  
 
