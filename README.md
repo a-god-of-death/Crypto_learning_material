@@ -66,6 +66,8 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 1.https://epf.wiki/#/eps/intro  
 2.https://eth2book.info/capella/  
 
+## meetup  
+1. https://www.bitcoinerevents.com/
 
 # 😎Find_crypto_job  
 A list of crypto job websites and communities. You can find the most complete job-hunting channel here.   
