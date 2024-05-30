@@ -31,17 +31,17 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 ## MEV  
 1.https://github.com/go-outside-labs/mev-toolkit  
 2.https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221  
-3.https://ethereum.org/zh/developers/docs/mev/
+3.https://ethereum.org/zh/developers/docs/mev/  
 
 
 ## Solidity
 1.https://solidity-by-example.org  
 2.https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/  
 
-## Defi
-1.https://blog.cfte.education/top-defi-projects-2023/
+## Defi  
+1.https://blog.cfte.education/top-defi-projects-2023/  
 
-## Web3 security
+## Web3 security  
 1.https://github.com/Anugrahsr/Awesome-web3-Security  
 2.https://rekt.news/leaderboard/  
 3.https://github.com/ConsenSys/smart-contract-best-practices/  
@@ -85,6 +85,7 @@ Feel free to contribute to this repository.
 9.https://jobs.hackernoon.com/?source=navbar  
 10.https://aworker.io/  
 11.https://www.stacks.co/jobs  
+12.https://blockchainjobseurope.com/browse-jobs/  
 
 
 😙Github  
