@@ -65,6 +65,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 ## Ethereum  
 1.https://epf.wiki/#/eps/intro  
 2.https://eth2book.info/capella/  
+3.https://ethresear.ch/  
 
 ## Meetup  
 1. https://www.bitcoinerevents.com/
