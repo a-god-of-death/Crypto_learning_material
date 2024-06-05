@@ -25,7 +25,8 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 9.https://123btc.org/  
 10.https://www.btcstudy.org/  
 
-
+## cryptonomic  
+1.https://efdn.notion.site/Robust-Incentives-Group-RIG-Homepage-802339956f2745a5964d8461c5ccef02
 
 
 ## MEV  
