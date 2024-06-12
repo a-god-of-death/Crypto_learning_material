@@ -42,13 +42,14 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 ## Defi  
 1.https://blog.cfte.education/top-defi-projects-2023/  
 
-## Web3 security  
+## security  
 1.https://github.com/Anugrahsr/Awesome-web3-Security  
 2.https://rekt.news/leaderboard/  
 3.https://github.com/ConsenSys/smart-contract-best-practices/  
 4.https://www.zellic.io/blog/the-auditooor-grindset/  
 5.https://www.curta.wtf/docs  
 6.https://onlypwner.xyz/  
+7.https://hackingdistributed.com/  
 
 ## Zero-knowledge proofs  
 1.https://github.com/matter-labs/awesome-zero-knowledge-proofs  
