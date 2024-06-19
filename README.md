@@ -10,7 +10,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 6.https://github.com/OffcierCia/DeFi-Developer-Road-Map?tab=readme-ov-file  
 7.https://openbuild.xyz/learn/courses  
 8.https://archive.devcon.org/archive/  
-
+9.https://kauri.io/#  
 
 
 ## Bitcoin  
