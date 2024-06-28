@@ -34,6 +34,7 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 2.https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221  
 3.https://ethereum.org/zh/developers/docs/mev/  
 4.https://docs.google.com/spreadsheets/d/1POtuj3DtF3A-uwm4MtKvwNYtnl_PW6DPUYj6x7yJUIs/edit?gid=1299175463#gid=1299175463  
+5.https://eigenphi.substack.com/p/mev-outlook-2023
 
 
 ## Solidity
