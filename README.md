@@ -55,7 +55,8 @@ Collection of beautiful crypto material. Feel free to contribute to it.
 
 ## Zero-knowledge proofs  
 1.https://github.com/matter-labs/awesome-zero-knowledge-proofs  
-2.https://zkhack.dev/whiteboard/module-one/
+2.https://zkhack.dev/whiteboard/module-one/  
+3.https://zk-learning.org/  
 
 ## Token engineering  
 1.https://tokenengineering.net/study-season/1  
